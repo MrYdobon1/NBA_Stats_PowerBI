@@ -1,0 +1,583 @@
+PLAYER_ID,PLAYER_NAME,COUNTRY,PLAYER_HEIGHT,PLAYER_WEIGHT,COLLEGE,DRAFT_YEAR,DRAFT_NUMBER,POSITION
+1630639,A.J. Lawson,Canada,6' 6'',179.0,South Carolina,Undrafted,Undrafted,Guard
+1631260,AJ Green,USA,6' 4'',190.0,Northern Iowa,Undrafted,Undrafted,Guard
+1642358,AJ Johnson,USA,6' 5'',160.0,,2024,23,Guard
+203932,Aaron Gordon,USA,6' 8'',235.0,Arizona,2014,4,Forward
+1628988,Aaron Holiday,USA,6' 0'',185.0,UCLA,2018,23,Guard
+1630174,Aaron Nesmith,USA,6' 5'',215.0,Vanderbilt,2020,14,Guard-Forward
+1630598,Aaron Wiggins,USA,6' 5'',190.0,Maryland,2021,55,Guard
+1642846,Ace Bailey,USA,6' 9'',200.0,Rutgers,2025,5,Forward
+1642380,Adama Bal,France,6' 7'',190.0,Santa Clara,Undrafted,Undrafted,Guard
+1641737,Adem Bona,Nigeria,6' 10'',235.0,UCLA,2024,41,Forward
+1642876,Adou Thiero,USA,6' 7'',220.0,Arkansas,2025,36,Guard
+1642349,Ajay Mitchell,Belgium,6' 4'',190.0,California-Santa Barbara,2024,38,Guard
+201143,Al Horford,Dominican Republic,6' 8'',240.0,Florida,2007,3,Center-Forward
+1630828,Alex Antetokounmpo,Greece,6' 8'',214.0,,Undrafted,Undrafted,Forward
+1627936,Alex Caruso,USA,6' 5'',186.0,Texas A&M,Undrafted,Undrafted,Guard
+1631457,Alex Morales,USA,6' 6'',210.0,Wagner,Undrafted,Undrafted,Guard
+1642259,Alex Sarr,France,7' 0'',205.0,,2024,2,Center
+1642918,Alijah Martin,USA,6' 2'',210.0,Florida,2025,39,Guard
+1631214,Alondes Williams,USA,6' 4'',210.0,Wake Forest,Undrafted,Undrafted,Guard
+1630578,Alperen Sengun,Turkey,6' 11'',243.0,,2021,16,Center
+1642873,Amari Williams,United Kingdom,6' 11'',250.0,Kentucky,2025,46,Forward-Center
+1641708,Amen Thompson,USA,6' 7'',200.0,,2023,4,Guard-Forward
+1629599,Amir Coffey,USA,6' 7'',210.0,Minnesota,Undrafted,Undrafted,Guard-Forward
+1643158,Andersson Garcia,Dominican Republic,6' 7'',220.0,Texas A&M,Undrafted,Undrafted,Forward
+203083,Andre Drummond,USA,6' 11'',279.0,Connecticut,2012,9,Center
+1641748,Andre Jackson Jr.,USA,6' 6'',209.0,Connecticut,2023,36,Guard
+1629614,Andrew Nembhard,Canada,6' 4'',191.0,Gonzaga,2022,31,Guard-Forward
+203952,Andrew Wiggins,Canada,6' 6'',197.0,Kansas,2014,1,Forward
+1629014,Anfernee Simons,USA,6' 3'',200.0,,2018,24,Guard
+1641710,Anthony Black,USA,6' 7'',200.0,Arkansas,2023,6,Guard
+203076,Anthony Davis,USA,6' 10'',253.0,Kentucky,2012,1,Forward-Center
+1630162,Anthony Edwards,USA,6' 4'',225.0,Georgia,2020,1,Guard
+1630264,Anthony Gill,USA,6' 7'',230.0,Virginia,Undrafted,Undrafted,Forward
+1641810,Antonio Reeves,USA,6' 5'',205.0,Kentucky,2024,47,Guard
+1630574,Ariel Hukporti,Germany,7' 0'',246.0,,2024,58,Center
+1642854,Asa Newell,USA,6' 10'',220.0,Georgia,2025,23,Forward
+1641709,Ausar Thompson,USA,6' 7'',205.0,,2023,5,Guard-Forward
+1630559,Austin Reaves,USA,6' 5'',197.0,Oklahoma,Undrafted,Undrafted,Guard
+1630245,Ayo Dosunmu,USA,6' 4'',201.0,Illinois,2021,38,Guard
+1628389,Bam Adebayo,USA,6' 9'',255.0,Kentucky,2017,14,Center-Forward
+1631248,Baylor Scheierman,USA,6' 6'',205.0,Creighton,2024,30,Guard
+1642879,Ben Saraf,Israel,6' 6'',200.0,,2025,26,Guard
+1641767,Ben Sheppard,USA,6' 6'',190.0,Belmont,2023,26,Guard
+1631097,Bennedict Mathurin,Canada,6' 5'',210.0,Arizona,2022,6,Guard-Forward
+1643016,Bez Mbeng,USA,6' 4'',185.0,Yale,Undrafted,Undrafted,Guard
+1641731,Bilal Coulibaly,France,6' 7'',195.0,,2023,7,Guard
+202687,Bismack Biyombo,DRC,6' 8'',255.0,,2011,7,Center
+1642396,Blake Hinson,USA,6' 8'',230.0,Pittsburgh,Undrafted,Undrafted,Forward
+1631104,Blake Wesley,USA,6' 4'',190.0,Notre Dame,2022,25,Guard
+1626171,Bobby Portis,USA,6' 9'',250.0,Arkansas,2015,22,Forward
+1641752,Bobi Klintman,Sweden,6' 9'',225.0,,2024,37,Forward
+203992,Bogdan Bogdanović,Serbia,6' 5'',225.0,,2014,27,Guard
+1630538,Bones Hyland,USA,6' 2'',169.0,Virginia Commonwealth,2021,26,Guard
+203078,Bradley Beal,USA,6' 4'',207.0,Florida,2012,3,Guard
+1642382,Branden Carlson,USA,7' 0'',220.0,Utah,Undrafted,Undrafted,Center
+1641764,Brandin Podziemski,USA,6' 4'',205.0,Santa Clara,2023,19,Guard
+1629634,Brandon Clarke,Canada,6' 8'',215.0,Gonzaga,2019,21,Forward
+1627742,Brandon Ingram,USA,6' 8'',190.0,Duke,2016,2,Forward
+1641706,Brandon Miller,USA,6' 7'',200.0,Alabama,2023,2,Forward
+1630314,Brandon Williams,USA,6' 1'',190.0,Arizona,Undrafted,Undrafted,Guard
+1641729,Brice Sensabaugh,USA,6' 6'',235.0,Ohio State,2023,28,Forward
+1642355,Bronny James,USA,6' 2'',210.0,Southern California,2024,55,Guard
+201572,Brook Lopez,USA,7' 1'',282.0,Stanford,2008,10,Center
+1642964,Brooks Barnhizer,USA,6' 5'',230.0,Northwestern,2025,44,Guard
+1628971,Bruce Brown,USA,6' 4'',202.0,Miami,2018,42,Guard-Forward
+1631121,Bryce McGowens,USA,6' 6'',190.0,Nebraska,2022,40,Guard
+1642267,Bub Carrington,USA,6' 4'',190.0,Pittsburgh,2024,14,Guard
+1631205,Buddy Boeheim,USA,6' 5'',205.0,Syracuse,Undrafted,Undrafted,Forward
+1627741,Buddy Hield,Bahamas,6' 4'',220.0,Oklahoma,2016,6,Guard
+1643047,CJ Huntley,USA,6' 11'',230.0,Appalachian State,Undrafted,Undrafted,Forward
+203468,CJ McCollum,USA,6' 3'',190.0,Lehigh,2013,10,Guard
+1630595,Cade Cunningham,USA,6' 6'',220.0,Oklahoma State,2021,1,Guard
+1631216,Caleb Houstan,Canada,6' 8'',205.0,Michigan,2022,32,Guard
+1631126,Caleb Love,USA,6' 3'',212.0,Arizona,Undrafted,Undrafted,Guard
+1628997,Caleb Martin,USA,6' 5'',205.0,Nevada,Undrafted,Undrafted,Forward
+1642353,Cam Christie,USA,6' 5'',190.0,Minnesota,2024,46,Guard
+1642285,Cam Spencer,USA,6' 3'',205.0,Connecticut,2024,53,Guard
+1630560,Cam Thomas,Japan,6' 3'',210.0,Louisiana State,2021,27,Guard
+1641715,Cam Whitmore,USA,6' 6'',230.0,Villanova,2023,20,Forward
+1629661,Cameron Johnson,USA,6' 8'',210.0,North Carolina,2019,11,Forward
+1626166,Cameron Payne,USA,6' 2'',183.0,Murray State,2015,14,Guard
+1627747,Caris LeVert,USA,6' 7'',205.0,Michigan,2016,20,Guard
+1642868,Carter Bryant,USA,6' 6'',220.0,Arizona,2025,14,Forward
+1641717,Cason Wallace,USA,6' 3'',195.0,Kentucky,2023,10,Guard
+1642907,Cedric Coward,USA,6' 5'',206.0,Washington State,2025,11,Guard
+1643052,Chaney Johnson,USA,6' 7'',220.0,Auburn,Undrafted,Undrafted,Guard-Forward
+1629646,Charles Bassey,Nigeria,6' 10'',230.0,Western Kentucky,2021,53,Center-Forward
+1642404,Chaz Lanier,USA,6' 3'',206.0,Tennessee,2025,37,Guard
+1631096,Chet Holmgren,USA,7' 1'',208.0,Gonzaga,2022,2,Center-Forward
+1628449,Chris Boucher,Saint Lucia,6' 8'',200.0,Oregon,Undrafted,Undrafted,Forward
+1641753,Chris Livingston,USA,6' 6'',220.0,Kentucky,2023,58,Forward
+1643024,Chris Mañon,USA,6' 4'',209.0,Vanderbilt,Undrafted,Undrafted,Guard
+101108,Chris Paul,USA,6' 0'',175.0,Wake Forest,2005,4,Guard
+1642959,Chris Youngblood,USA,6' 4'',,Alabama,Undrafted,Undrafted,Guard
+1631128,Christian Braun,USA,6' 6'',220.0,Kansas,2022,21,Guard
+1631132,Christian Koloko,Cameroon,6' 11'',225.0,Arizona,2022,33,Center
+1642935,Chucky Hepburn,USA,6' 0'',190.0,Louisville,Undrafted,Undrafted,Guard
+203991,Clint Capela,Switzerland,6' 10'',256.0,,2014,25,Center
+1629632,Coby White,USA,6' 4'',210.0,North Carolina,2019,7,Guard
+1628998,Cody Martin,USA,6' 6'',205.0,Nevada,2019,36,Forward
+1642262,Cody Williams,USA,6' 8'',190.0,Colorado,2024,10,Forward
+1641732,Colby Jones,USA,6' 6'',207.0,Xavier,2023,34,Guard
+1630175,Cole Anthony,USA,6' 2'',185.0,North Carolina,2020,15,Guard
+1630658,Colin Castleton,USA,6' 10'',250.0,Florida,Undrafted,Undrafted,Center
+1631221,Collin Gillespie,USA,6' 1'',195.0,Villanova,Undrafted,Undrafted,Guard
+1642867,Collin Murray-Boyles,USA,6' 7'',245.0,South Carolina,2025,9,Forward
+1629012,Collin Sexton,USA,6' 3'',190.0,Alabama,2018,8,Guard
+1642843,Cooper Flagg,USA,6' 9'',205.0,Duke,2025,1,Forward
+1630557,Corey Kispert,USA,6' 6'',224.0,Gonzaga,2021,15,Forward
+1642504,Cormac Ryan,USA,6' 5'',205.0,North Carolina,Undrafted,Undrafted,Guard
+1641854,Craig Porter Jr.,USA,6' 1'',180.0,Wichita State,Undrafted,Undrafted,Guard
+1642938,Curtis Jones,USA,6' 3'',195.0,Iowa State,Undrafted,Undrafted,Guard
+1626156,D'Angelo Russell,USA,6' 3'',193.0,Ohio State,2015,2,Guard
+1629610,DaQuan Jeffries,USA,6' 5'',222.0,Tulsa,Undrafted,Undrafted,Guard-Forward
+1641747,DaRon Holmes II,USA,6' 9'',225.0,Dayton,2024,22,Forward
+1631342,Daeqwon Plowden,USA,6' 4'',216.0,Bowling Green,Undrafted,Undrafted,Guard-Forward
+1630625,Dalano Banton,Canada,6' 8'',203.0,Nebraska,2021,46,Forward
+1631207,Dalen Terry,USA,6' 6'',210.0,Arizona,2022,18,Forward
+1642261,Dalton Knecht,USA,6' 6'',215.0,Tennessee,2024,17,Forward
+1629655,Daniel Gafford,USA,6' 10'',265.0,Arkansas,2019,38,Forward-Center
+1642450,Daniss Jenkins,USA,6' 4'',165.0,St. John's,Undrafted,Undrafted,Guard
+1642874,Danny Wolf,USA,6' 11'',250.0,Michigan,2025,27,Forward
+203967,Dario Saric,Croatia,6' 10'',225.0,,2014,12,Forward-Center
+1641727,Dariq Whitehead,USA,6' 6'',220.0,Duke,2023,22,Guard-Forward
+1642468,Darius Brown,USA,6' 2'',192.0,Utah State,Undrafted,Undrafted,Guard
+1629636,Darius Garland,USA,6' 1'',192.0,Vanderbilt,2019,5,Guard
+1642357,David Jones Garcia,Dominican Republic,6' 4'',210.0,Memphis,Undrafted,Undrafted,Guard
+1631223,David Roddy,USA,6' 5'',255.0,Colorado State,2022,23,Forward
+1630558,Davion Mitchell,USA,6' 0'',202.0,Baylor,2021,9,Guard
+1630549,Day'Ron Sharpe,USA,6' 10'',265.0,North Carolina,2021,29,Center
+1628368,De'Aaron Fox,USA,6' 3'',185.0,Kentucky,2017,5,Guard
+1629631,De'Andre Hunter,USA,6' 7'',221.0,Virginia,2019,4,Forward-Guard
+1629001,De'Anthony Melton,USA,6' 2'',200.0,Southern California,2018,46,Guard
+201599,DeAndre Jordan,USA,6' 11'',265.0,Texas A&M,2008,35,Center
+1630610,DeJon Jarreau,USA,6' 5'',185.0,Houston,Undrafted,Undrafted,Guard
+201942,DeMar DeRozan,USA,6' 6'',220.0,Southern California,2009,9,Guard-Forward
+1629731,Dean Wade,USA,6' 9'',228.0,Kansas State,Undrafted,Undrafted,Forward-Center
+1629028,Deandre Ayton,Bahamas,7' 0'',252.0,Arizona,2018,1,Center
+1627749,Dejounte Murray,USA,6' 4'',180.0,Washington,2016,29,Guard
+1630166,Deni Avdija,Israel,6' 8'',228.0,,2020,9,Forward
+203471,Dennis Schröder,Germany,6' 1'',175.0,,2013,17,Guard
+1641726,Dereck Lively II,USA,7' 1'',230.0,Duke,2023,12,Center
+1642852,Derik Queen,USA,6' 9'',250.0,Maryland,2025,13,Center
+1627884,Derrick Jones Jr.,USA,6' 6'',210.0,UNLV,Undrafted,Undrafted,Forward
+1628401,Derrick White,USA,6' 4'',190.0,Colorado,2017,29,Guard
+1630217,Desmond Bane,USA,6' 6'',215.0,TCU,2020,30,Guard
+1626164,Devin Booker,USA,6' 5'',206.0,Kentucky,2015,13,Guard
+1642269,Devin Carter,USA,6' 2'',195.0,Providence,2024,13,Guard
+1630170,Devin Vassell,USA,6' 5'',200.0,Florida State,2020,11,Guard-Forward
+1628415,Dillon Brooks,Canada,6' 7'',225.0,Oregon,2017,45,Guard-Forward
+1641794,Dillon Jones,USA,6' 5'',235.0,Weber State,2024,26,Forward
+1627734,Domantas Sabonis,Lithuania,6' 10'',240.0,Gonzaga,2016,11,Forward-Center
+1631230,Dominick Barlow,USA,6' 9'',224.0,,Undrafted,Undrafted,Forward
+1642270,Donovan Clingan,USA,7' 2'',280.0,Connecticut,2024,7,Center
+1628378,Donovan Mitchell,USA,6' 2'',215.0,Louisville,2017,13,Guard
+1628978,Donte DiVincenzo,USA,6' 4'',203.0,Villanova,2018,17,Guard
+1627827,Dorian Finney-Smith,USA,6' 7'',220.0,Florida,Undrafted,Undrafted,Forward
+203926,Doug McDermott,USA,6' 7'',225.0,Creighton,2014,11,Forward
+1642962,Drake Powell,USA,6' 5'',195.0,North Carolina,2025,22,Guard-Forward
+203110,Draymond Green,USA,6' 6'',230.0,Michigan State,2012,35,Forward
+1629234,Drew Eubanks,USA,6' 10'',245.0,Oregon State,Undrafted,Undrafted,Forward-Center
+1641809,Drew Peterson,USA,6' 8'',205.0,USC,Undrafted,Undrafted,Forward
+1631166,Drew Timme,USA,6' 9'',235.0,Gonzaga,Undrafted,Undrafted,Forward
+1630696,Dru Smith,USA,6' 2'',203.0,Missouri,Undrafted,Undrafted,Guard
+1629130,Duncan Robinson,USA,6' 7'',215.0,Michigan,Undrafted,Undrafted,Forward
+1641871,Duop Reath,South Sudan,6' 9'',245.0,Louisiana State,Undrafted,Undrafted,Center
+203939,Dwight Powell,Canada,6' 10'',240.0,Stanford,2014,45,Forward-Center
+1642928,Dylan Cardwell,USA,6' 10'',255.0,Auburn,Undrafted,Undrafted,Center
+1642844,Dylan Harper,USA,6' 5'',215.0,Rutgers,2025,2,Guard
+1630700,Dyson Daniels,Australia,6' 7'',199.0,,2022,8,Guard
+1630604,E.J. Liddell,USA,6' 6'',240.0,Ohio State,2022,41,Forward
+1642856,Egor Dëmin,Russia,6' 8'',200.0,Brigham Young,2025,8,Guard
+1641989,Elijah Harkless,USA,6' 3'',195.0,UNLV,Undrafted,Undrafted,Guard
+1641801,Emanuel Miller,Canada,6' 5'',215.0,TCU,Undrafted,Undrafted,Forward
+1642402,Enrique Freeman,USA,6' 9'',220.0,Akron,2024,50,Forward
+201569,Eric Gordon,USA,6' 3'',215.0,Indiana,2008,7,Guard
+1630679,Ethan Thompson,Puerto Rico,6' 4'',195.0,Oregon State,Undrafted,Undrafted,Guard
+1630596,Evan Mobley,USA,6' 11'',215.0,Southern California,2021,3,Center
+1630532,Franz Wagner,Germany,6' 10'',220.0,Michigan,2021,8,Forward
+1641713,GG Jackson,USA,6' 9'',210.0,South Carolina,2023,45,Forward
+1629216,Gabe Vincent,USA,6' 2'',200.0,California-Santa Barbara,Undrafted,Undrafted,Guard
+202066,Garrett Temple,USA,6' 5'',195.0,Louisiana State,Undrafted,Undrafted,Guard-Forward
+1629726,Garrison Mathews,USA,6' 5'',215.0,Lipscomb,Undrafted,Undrafted,Guard
+203914,Gary Harris,USA,6' 4'',210.0,Michigan State,2014,19,Guard
+1627780,Gary Payton II,USA,6' 2'',195.0,Oregon State,Undrafted,Undrafted,Guard
+1629018,Gary Trent Jr.,USA,6' 5'',204.0,Duke,2018,37,Guard
+203507,Giannis Antetokounmpo,Greece,6' 11'',243.0,,2013,15,Forward
+1629048,Goga Bitadze,Georgia,6' 11'',250.0,,2019,18,Center-Forward
+1641711,Gradey Dick,USA,6' 7'',200.0,Kansas,2023,13,Guard-Forward
+1641761,Grant Nelson,USA,7' 0'',215.0,Alabama,Undrafted,Undrafted,Forward
+1629684,Grant Williams,USA,6' 7'',236.0,Tennessee,2019,22,Forward
+1628960,Grayson Allen,USA,6' 3'',198.0,Duke,2018,21,Guard
+1627824,Guerschon Yabusele,France,6' 7'',265.0,,2016,16,Forward
+1630611,Gui Santos,Brazil,6' 7'',185.0,,2022,55,Forward
+203084,Harrison Barnes,USA,6' 7'',225.0,North Carolina,2012,7,Forward
+1631127,Harrison Ingram,USA,6' 5'',230.0,North Carolina,2024,48,Forward
+1643060,Hayden Gray,USA,6' 4'',190.0,California-San Diego,Undrafted,Undrafted,Guard
+1629312,Haywood Highsmith,USA,6' 5'',220.0,Wheeling Jesuit,2018,Undrafted,Forward
+1630529,Herbert Jones,USA,6' 7'',206.0,Alabama,2021,35,Forward
+1642864,Hugo González,Spain,6' 6'',200.0,,2025,28,Guard
+1630621,Hunter Dickinson,USA,7' 1'',255.0,Kansas,Undrafted,Undrafted,Center
+1642282,Hunter Sallis,USA,6' 4'',185.0,Wake Forest,Undrafted,Undrafted,Guard
+1641816,Hunter Tyson,USA,6' 8'',215.0,Clemson,2023,37,Forward
+1630193,Immanuel Quickley,USA,6' 2'',190.0,Kentucky,2020,25,Guard
+1642403,Isaac Jones,USA,6' 8'',245.0,Washington State,Undrafted,Undrafted,Forward
+1630171,Isaac Okoro,USA,6' 4'',225.0,Auburn,2020,5,Forward-Guard
+1642268,Isaiah Collier,USA,6' 4'',210.0,Southern California,2024,29,Guard
+1642384,Isaiah Crawford,USA,6' 6'',220.0,Louisiana Tech,Undrafted,Undrafted,Forward
+1628392,Isaiah Hartenstein,Germany,7' 0'',250.0,,2017,43,Center-Forward
+1630543,Isaiah Jackson,USA,6' 8'',205.0,Kentucky,2021,22,Forward
+1630198,Isaiah Joe,USA,6' 4'',165.0,Arkansas,2020,49,Guard
+1630587,Isaiah Livers,USA,6' 6'',232.0,Michigan,2021,42,Forward
+1641815,Isaiah Stevens,USA,5' 11'',185.0,Colorado State,Undrafted,Undrafted,Guard
+1630191,Isaiah Stewart,USA,6' 8'',250.0,Washington,2020,16,Forward-Center
+1627826,Ivica Zubac,Croatia,7' 0'',240.0,,2016,32,Center
+1631120,JD Davison,USA,6' 1'',195.0,Alabama,2022,53,Guard
+1629630,Ja Morant,USA,6' 2'',174.0,Murray State,2019,2,Guard
+1642266,Ja'Kobe Walter,USA,6' 4'',180.0,Baylor,2024,19,Guard
+1631095,Jabari Smith Jr.,USA,6' 11'',220.0,Auburn,2022,3,Forward
+1631133,Jabari Walker,USA,6' 7'',237.0,Colorado,2022,57,Forward
+1631210,Jacob Toppin,USA,6' 9'',200.0,Kentucky,Undrafted,Undrafted,Forward
+1630702,Jaden Hardy,USA,6' 3'',198.0,,2022,37,Guard
+1631093,Jaden Ivey,USA,6' 3'',195.0,Purdue,2022,5,Guard
+1630183,Jaden McDaniels,USA,6' 9'',185.0,Washington,2020,28,Forward
+1630256,Jae'Sean Tate,USA,6' 4'',230.0,Ohio State,Undrafted,Undrafted,Forward
+1642942,Jahmai Mashack,USA,6' 4'',203.0,Tennessee,2025,59,Guard
+1642443,Jahmir Young,USA,6' 0'',185.0,Maryland,Undrafted,Undrafted,Guard
+1643141,Jahmyl Telfort,Canada,6' 7'',,,Undrafted,Undrafted,Guard
+1631170,Jaime Jaquez Jr.,USA,6' 6'',225.0,UCLA,2023,18,Guard
+1631222,Jake LaRavia,USA,6' 7'',235.0,Wake Forest,2022,19,Forward
+1627751,Jakob Poeltl,Austria,7' 0'',253.0,Utah,2016,9,Center
+1628973,Jalen Brunson,USA,6' 2'',190.0,Villanova,2018,33,Guard
+1631105,Jalen Duren,USA,6' 10'',250.0,Memphis,2022,13,Center
+1630224,Jalen Green,USA,6' 4'',186.0,,2021,2,Guard
+1630552,Jalen Johnson,USA,6' 8'',219.0,Duke,2021,20,Forward
+1629618,Jalen Pickett,USA,6' 2'',202.0,Penn State,2023,32,Guard
+1641771,Jalen Slawson,USA,6' 7'',215.0,Furman,2023,54,Forward
+1630188,Jalen Smith,USA,6' 8'',244.0,Maryland,2020,10,Forward-Center
+1630591,Jalen Suggs,USA,6' 5'',205.0,Gonzaga,2021,5,Guard
+1631114,Jalen Williams,USA,6' 5'',211.0,Santa Clara,2022,12,Guard-Forward
+1630592,Jalen Wilson,USA,6' 6'',220.0,Kansas,2023,51,Forward
+1631288,Jamal Cain,USA,6' 7'',191.0,Oakland,Undrafted,Undrafted,Forward
+1627750,Jamal Murray,Canada,6' 4'',215.0,Kentucky,2016,7,Guard
+1642347,Jamal Shead,USA,6' 1'',200.0,Houston,2024,45,Guard
+1631123,Jamaree Bouyea,USA,6' 2'',180.0,San Francisco,Undrafted,Undrafted,Guard
+201935,James Harden,USA,6' 5'',220.0,Arizona State,2009,3,Guard
+1630164,James Wiseman,USA,6' 11'',240.0,Memphis,2020,2,Center
+1642364,Jamir Watkins,USA,6' 6'',210.0,Florida State,2025,43,Forward
+1642419,Jamison Battle,USA,6' 7'',220.0,Ohio State,Undrafted,Undrafted,Forward
+1641716,Jarace Walker,USA,6' 7'',235.0,Houston,2023,8,Forward
+1642272,Jared McCain,USA,6' 3'',195.0,Duke,2024,16,Guard
+1628991,Jaren Jackson Jr.,USA,6' 10'',242.0,Michigan State,2018,4,Forward-Center
+1629020,Jarred Vanderbilt,USA,6' 8'',214.0,Kentucky,2018,41,Forward
+1628386,Jarrett Allen,USA,6' 9'',243.0,Texas,2017,22,Center
+1642859,Jase Richardson,USA,6' 1'',180.0,Michigan State,2025,25,Guard
+1642914,Javon Small,USA,6' 1'',190.0,West Virginia,2025,48,Guard
+1631451,Javonte Cooke,USA,6' 6'',185.0,Winston-Salem,Undrafted,Undrafted,Guard
+1629750,Javonte Green,USA,6' 5'',205.0,Radford,Undrafted,Undrafted,Guard
+1629637,Jaxson Hayes,USA,7' 0'',220.0,Texas,2019,8,Center-Forward
+1630643,Jay Huff,USA,7' 1'',240.0,Virginia,Undrafted,Undrafted,Center
+1627759,Jaylen Brown,USA,6' 6'',223.0,California,2016,3,Guard-Forward
+1641740,Jaylen Clark,USA,6' 5'',205.0,UCLA,2023,53,Guard
+1642377,Jaylen Wells,USA,6' 7'',,Washington State,2024,39,Forward
+1631119,Jaylin Williams,USA,6' 9'',240.0,Arkansas,2022,34,Forward
+1642281,Jaylon Tyson,USA,6' 6'',215.0,California,2024,20,Guard-Forward
+1643257,Jayson Kent,USA,6' 8'',215.0,Texas,Undrafted,Undrafted,Forward
+1628369,Jayson Tatum,USA,6' 8'',210.0,Duke,2017,3,Forward-Guard
+201145,Jeff Green,USA,6' 8'',235.0,Georgetown,2007,5,Forward
+203924,Jerami Grant,USA,6' 7'',213.0,Syracuse,2014,39,Forward
+1642847,Jeremiah Fears,USA,6' 3'',190.0,Oklahoma,2025,7,Guard
+1630526,Jeremiah Robinson-Earl,USA,6' 9'',240.0,Villanova,2021,32,Forward
+1631110,Jeremy Sochan,Poland,6' 8'',230.0,Baylor,2022,9,Forward
+1630579,Jericho Sims,USA,6' 10'',250.0,Texas,2021,58,Center
+1641724,Jett Howard,USA,6' 8'',215.0,Michigan,2023,11,Guard
+1628975,Jevon Carter,USA,6' 0'',190.0,West Virginia,2018,32,Guard
+202710,Jimmy Butler III,USA,6' 6'',230.0,Marquette,2011,30,Forward
+1642866,Joan Beringer,France,6' 11'',230.0,,2025,17,Forward
+1629111,Jock Landale,Australia,6' 11'',255.0,St. Mary's,Undrafted,Undrafted,Center
+204060,Joe Ingles,Australia,6' 8'',220.0,,Undrafted,Undrafted,Forward-Guard
+203954,Joel Embiid,Cameroon,7' 0'',270.0,Kansas,2014,3,Center-Forward
+1628381,John Collins,USA,6' 9'',226.0,Wake Forest,2017,19,Forward-Center
+1629723,John Konchar,USA,6' 5'',210.0,Indiana-Purdue Fort Wayne,Undrafted,Undrafted,Guard
+1642967,John Poulakidas,USA,6' 6'',205.0,Yale,Undrafted,Undrafted,Guard
+1642910,John Tonje,USA,6' 4'',218.0,Wisconsin,2025,53,Guard
+1641780,Johni Broome,USA,6' 9'',244.0,Auburn,2025,35,Forward
+1642277,Johnny Furphy,Australia,6' 8'',200.0,Kansas,2024,35,Guard
+1630548,Johnny Juzang,USA,6' 7'',226.0,UCLA,Undrafted,Undrafted,Guard
+202685,Jonas Valančiūnas,Lithuania,6' 11'',265.0,,2011,5,Center
+1628371,Jonathan Isaac,USA,6' 10'',230.0,Florida State,2017,6,Forward
+1630228,Jonathan Kuminga,DRC,6' 7'',225.0,,2021,7,Forward
+1642367,Jonathan Mogbo,USA,6' 9'',225.0,San Francisco,2024,31,Forward
+203903,Jordan Clarkson,USA,6' 5'',194.0,Missouri,2014,46,Guard
+1630692,Jordan Goodwin,USA,6' 3'',215.0,St. Louis,Undrafted,Undrafted,Guard
+1641722,Jordan Hawkins,USA,6' 5'',190.0,Connecticut,2023,14,Guard
+1629162,Jordan McLaughlin,USA,5' 11'',185.0,Southern California,Undrafted,Undrafted,Guard
+1641757,Jordan Miller,USA,6' 5'',194.0,Miami,2023,48,Guard
+1629673,Jordan Poole,USA,6' 4'',194.0,Michigan,2019,28,Guard
+1641775,Jordan Walsh,USA,6' 6'',205.0,Arkansas,2023,38,Guard
+1630631,Jose Alvarado,USA,6' 0'',179.0,Georgia Tech,Undrafted,Undrafted,Guard
+1630581,Josh Giddey,Australia,6' 7'',214.0,,2021,6,Guard
+1630182,Josh Green,Australia,6' 6'',200.0,Arizona,2020,18,Guard
+1628404,Josh Hart,USA,6' 5'',215.0,Villanova,2017,30,Guard
+1631169,Josh Minott,USA,6' 8'',205.0,Memphis,2022,45,Forward
+1642490,Josh Oduro,USA,6' 9'',240.0,Providence,Undrafted,Undrafted,Center
+1629006,Josh Okogie,Nigeria,6' 4'',213.0,Georgia Tech,2018,20,Guard
+201950,Jrue Holiday,USA,6' 4'',220.0,UCLA,2009,17,Guard
+1630577,Julian Champagnie,USA,6' 7'',217.0,St. John's,Undrafted,Undrafted,Forward
+1641763,Julian Phillips,USA,6' 6'',201.0,Tennessee,2023,35,Forward
+1642882,Julian Reese,USA,6' 9'',230.0,Maryland,Undrafted,Undrafted,Forward
+1631124,Julian Strawther,USA,6' 6'',205.0,Gonzaga,2023,29,Guard
+203944,Julius Randle,USA,6' 9'',250.0,Kentucky,2014,7,Forward-Center
+1630551,Justin Champagnie,USA,6' 6'',206.0,Pittsburgh,Undrafted,Undrafted,Guard-Forward
+1642348,Justin Edwards,USA,6' 7'',217.0,Kentucky,Undrafted,Undrafted,Forward
+203994,Jusuf Nurkić,Bosnia and Herzegovina,6' 11'',290.0,,2014,16,Center
+1642354,KJ Simpson,USA,6' 2'',189.0,Colorado,2024,42,Guard
+1642955,Kadary Richmond,USA,6' 6'',205.0,"St. John's, N.Y.",Undrafted,Undrafted,Guard
+1642880,Kam Jones,USA,6' 4'',200.0,Marquette,2025,38,Guard
+1626157,Karl-Anthony Towns,USA,7' 0'',248.0,Kentucky,2015,1,Center-Forward
+1631255,Karlo Matković,Bosnia and Herzegovina,6' 10'',231.0,,2022,52,Forward-Center
+1642857,Kasparas Jakučionis,Lithuania,6' 5'',200.0,Illinois-Urbana-Champaign,2025,20,Guard
+202695,Kawhi Leonard,USA,6' 6'',225.0,San Diego State,2011,15,Forward
+1630811,Keaton Wallace,USA,6' 3'',185.0,Texas-San Antonio,Undrafted,Undrafted,Guard
+1631099,Keegan Murray,USA,6' 8'',225.0,Iowa,2022,4,Forward
+1642276,Kel'el Ware,USA,7' 0'',230.0,Indiana,2024,15,Center
+1629640,Keldon Johnson,USA,6' 6'',220.0,Kentucky,2019,29,Forward-Guard
+203482,Kelly Olynyk,Canada,7' 0'',240.0,Gonzaga,2013,13,Forward-Center
+1626162,Kelly Oubre Jr.,USA,6' 8'',210.0,Kansas,2015,15,Forward-Guard
+1631113,Kennedy Chandler,USA,6' 0'',170.0,Tennessee,2022,38,Guard
+1629026,Kenrich Williams,USA,6' 7'',210.0,TCU,Undrafted,Undrafted,Guard-Forward
+203484,Kentavious Caldwell-Pope,USA,6' 5'',204.0,Georgia,2013,8,Guard
+1631165,Keon Ellis,USA,6' 4'',175.0,Alabama,Undrafted,Undrafted,Guard
+1642352,Keshad Johnson,USA,6' 6'',225.0,Arizona,Undrafted,Undrafted,Forward
+1642933,Keshon Gilbert,USA,6' 4'',200.0,Iowa State,Undrafted,Undrafted,Guard
+201142,Kevin Durant,USA,6' 11'',240.0,Texas,2007,2,Forward
+1628989,Kevin Huerter,USA,6' 6'',190.0,Maryland,2018,19,Guard-Forward
+201567,Kevin Love,USA,6' 10'',251.0,UCLA,2008,5,Forward-Center
+1641755,Kevin McCullar Jr.,USA,6' 6'',210.0,Kansas,2024,56,Guard
+1629645,Kevin Porter Jr.,USA,6' 5'',203.0,Southern California,2019,30,Guard-Forward
+1626172,Kevon Looney,USA,6' 9'',222.0,UCLA,2015,30,Forward
+1641718,Keyonte George,USA,6' 4'',185.0,Baylor,2023,16,Guard
+1642863,Khaman Maluach,South Sudan,7' 1'',250.0,Duke,2025,10,Center
+203114,Khris Middleton,USA,6' 7'',222.0,Texas A&M,2012,39,Forward
+1630165,Killian Hayes,France,6' 4'',195.0,,2020,7,Guard
+202691,Klay Thompson,USA,6' 5'',220.0,Washington State,2011,11,Guard
+1641738,Kobe Brown,USA,6' 7'',250.0,Missouri,2023,30,Forward
+1641723,Kobe Bufkin,USA,6' 4'',195.0,Michigan,2023,15,Guard
+1642920,Kobe Sanders,USA,6' 8'',207.0,Nevada,2025,50,Guard
+1642886,Koby Brea,USA,6' 5'',215.0,Kentucky,2025,41,Guard
+1642851,Kon Knueppel,USA,6' 6'',215.0,Duke,2025,4,Guard-Forward
+1627739,Kris Dunn,USA,6' 3'',205.0,Providence,2016,5,Guard
+1631200,Kris Murray,USA,6' 8'',218.0,Iowa,2023,23,Forward
+204001,Kristaps Porziņģis,Latvia,7' 2'',240.0,,2015,4,Forward-Center
+203937,Kyle Anderson,USA,6' 8'',230.0,UCLA,2014,30,Forward-Guard
+1642271,Kyle Filipowski,USA,6' 11'',250.0,Duke,2024,32,Center
+1628398,Kyle Kuzma,USA,6' 8'',221.0,Utah,2017,27,Forward
+200768,Kyle Lowry,USA,6' 0'',196.0,Villanova,2006,24,Guard
+1642273,Kyshawn George,Switzerland,6' 8'',200.0,Miami,2024,24,Forward
+1643018,LJ Cryer,USA,6' 0'',,Houston,Undrafted,Undrafted,Guard
+1630163,LaMelo Ball,USA,6' 7'',180.0,,2020,3,Guard
+1642950,Lachlan Olbrich,Australia,6' 8'',236.0,,2025,55,Center
+1629013,Landry Shamet,USA,6' 5'',190.0,Wichita State,2018,26,Guard
+1626204,Larry Nance Jr.,USA,6' 6'',245.0,Wyoming,2015,27,Forward-Center
+1628374,Lauri Markkanen,Finland,7' 1'',240.0,Arizona,2017,7,Forward-Center
+1643133,Lawson Lovering,USA,7' 0'',,Utah,Undrafted,Undrafted,Center
+2544,LeBron James,USA,6' 9'',250.0,,2003,1,Forward
+1641778,Leaky Black,USA,6' 6'',209.0,North Carolina,Undrafted,Undrafted,Forward
+1631159,Leonard Miller,Canada,6' 10'',220.0,,2023,33,Forward
+1642862,Liam McNeeley,USA,6' 7'',210.0,Connecticut,2025,29,Forward
+1630322,Lindy Waters III,USA,6' 5'',210.0,Oklahoma State,Undrafted,Undrafted,Forward
+1628366,Lonzo Ball,USA,6' 5'',190.0,UCLA,2017,2,Guard
+1631351,Lucas Williamson,USA,6' 4'',205.0,Loyola (IL),Undrafted,Undrafted,Guard
+1629652,Luguentz Dort,Canada,6' 4'',220.0,Arizona State,Undrafted,Undrafted,Guard
+1629029,Luka Dončić,Slovenia,6' 8'',230.0,,2018,3,Forward-Guard
+1630568,Luka Garza,USA,6' 10'',243.0,Iowa,2021,52,Center
+1628379,Luke Kennard,USA,6' 5'',206.0,Duke,2017,12,Guard
+1628436,Luke Kornet,USA,7' 1'',250.0,Vanderbilt,Undrafted,Undrafted,Center-Forward
+1631247,Luke Travers,Australia,6' 6'',207.0,,2022,56,Forward
+1630644,Mac McClung,USA,6' 2'',185.0,Texas Tech,Undrafted,Undrafted,Guard
+1641869,Malachi Smith,USA,6' 4'',205.0,Gonzaga,Undrafted,Undrafted,Guard
+1631103,Malaki Branham,USA,6' 4'',180.0,Ohio State,2022,20,Forward
+1642502,Malevy Leons,Netherlands,6' 9'',210.0,Bradley,Undrafted,Undrafted,Forward
+1628370,Malik Monk,USA,6' 3'',200.0,Kentucky,2017,11,Guard
+1630699,MarJon Beauchamp,USA,6' 7'',199.0,,2022,24,Forward
+1631204,Marcus Sasser,USA,6' 1'',195.0,Houston,2023,25,Guard
+203935,Marcus Smart,USA,6' 3'',220.0,Oklahoma State,2014,6,Guard
+1641813,Mark Sears,USA,6' 0'',185.0,Alabama,Undrafted,Undrafted,Guard
+1631109,Mark Williams,USA,7' 1'',240.0,Duke,2022,15,Center
+1628365,Markelle Fultz,USA,6' 4'',209.0,Washington,2017,1,Guard
+1628963,Marvin Bagley III,USA,6' 10'',235.0,Duke,2018,2,Forward
+203486,Mason Plumlee,USA,7' 0'',254.0,Duke,2013,22,Forward-Center
+1641824,Matas Buzelis,USA,6' 8'',196.0,,2024,11,Forward
+1629680,Matisse Thybulle,USA,6' 5'',202.0,Washington,2019,20,Guard-Forward
+1631108,Max Christie,USA,6' 5'',190.0,Michigan State,2022,35,Guard
+1642917,Max Shulga,Ukraine,6' 4'',210.0,Virginia Commonwealth,2025,57,Guard
+1629622,Max Strus,USA,6' 5'',215.0,DePaul,Undrafted,Undrafted,Guard-Forward
+1628467,Maxi Kleber,Germany,6' 10'',240.0,,Undrafted,Undrafted,Forward
+1642875,Maxime Raynaud,France,7' 1'',250.0,Stanford,2025,42,Center
+1642877,Micah Peavy,USA,6' 7'',215.0,Georgetown,2025,40,Guard-Forward
+1630695,Micah Potter,USA,6' 9'',248.0,Wisconsin,Undrafted,Undrafted,Center
+1629008,Michael Porter Jr.,USA,6' 10'',218.0,Missouri,2018,14,Forward
+1628969,Mikal Bridges,USA,6' 6'',209.0,Villanova,2018,10,Guard-Forward
+201144,Mike Conley,USA,6' 1'',175.0,Ohio State,2007,4,Guard
+1628970,Miles Bridges,USA,6' 7'',225.0,Michigan State,2018,12,Forward
+1642939,Miles Kelly,USA,6' 4'',190.0,Auburn,Undrafted,Undrafted,Guard
+1630540,Miles McBride,USA,6' 2'',195.0,West Virginia,2021,36,Guard
+1629011,Mitchell Robinson,USA,7' 0'',240.0,Western Kentucky,2018,36,Center-Forward
+1628964,Mo Bamba,USA,7' 0'',231.0,Texas,2018,6,Center
+1642885,Mohamed Diawara,France,6' 9'',225.0,,2025,51,Forward
+1628420,Monte Morris,USA,6' 2'',183.0,Iowa State,2017,51,Guard
+1629021,Moritz Wagner,Germany,6' 11'',245.0,Michigan,2018,25,Forward-Center
+1630541,Moses Moody,USA,6' 5'',211.0,Arkansas,2021,14,Guard
+1631338,Mouhamadou Gueye,USA,6' 9'',210.0,Pittsburgh,Undrafted,Undrafted,Forward
+1631243,Mouhamed Gueye,Senegal,6' 11'',210.0,Washington State,2023,39,Forward
+1630619,Moussa Cisse,Guinea,6' 11'',220.0,Memphis,Undrafted,Undrafted,Center
+1631217,Moussa Diabaté,France,6' 10'',210.0,Michigan,2022,43,Forward
+1626167,Myles Turner,USA,6' 11'',250.0,Texas,2015,11,Center-Forward
+1642066,Myron Gardner,USA,6' 5'',220.0,Arkansas-Little Rock,Undrafted,Undrafted,Forward
+1642368,N'Faly Dante,Mali,6' 11'',230.0,Oregon,Undrafted,Undrafted,Center
+1641772,Nae'Qwan Tomlin,USA,6' 8'',210.0,Memphis,Undrafted,Undrafted,Forward
+1630230,Naji Marshall,USA,6' 6'',220.0,Xavier,Undrafted,Undrafted,Forward
+1631466,Nate Williams,USA,6' 5'',205.0,Buffalo,Undrafted,Undrafted,Guard
+1629675,Naz Reid,USA,6' 9'',264.0,Louisiana State,Undrafted,Undrafted,Center-Forward
+1629674,Neemias Queta,Portugal,7' 0'',248.0,Utah State,2021,39,Center
+1629651,Nic Claxton,USA,6' 11'',215.0,Georgia,2019,31,Center
+1630208,Nick Richards,Jamaica,6' 11'',245.0,Kentucky,2020,42,Center
+1641733,Nick Smith Jr.,USA,6' 2'',185.0,Arkansas,2023,27,Guard
+1629638,Nickeil Alexander-Walker,Canada,6' 5'',205.0,Virginia Tech,2019,17,Guard
+201587,Nicolas Batum,France,6' 7'',230.0,,2008,25,Guard-Forward
+1628502,Nigel Hayes-Davis,USA,6' 7'',254.0,Wisconsin,Undrafted,Undrafted,Forward
+203999,Nikola Jokić,Serbia,6' 11'',284.0,,2014,41,Center
+1631107,Nikola Jović,Serbia,6' 10'',205.0,,2022,27,Forward
+1642260,Nikola Topić,Serbia,6' 6'',200.0,,2024,12,Guard
+202696,Nikola Vučević,Montenegro,6' 9'',265.0,Southern California,2011,16,Center
+1642363,Nique Clifford,USA,6' 5'',175.0,Colorado State,2025,24,Guard
+1642855,Noa Essengue,France,6' 8'',194.0,,2025,12,Forward
+1641730,Noah Clowney,USA,6' 10'',210.0,Alabama,2023,21,Forward-Center
+1642869,Noah Penda,France,6' 7'',215.0,,2025,32,Guard-Forward
+1642849,Nolan Traore,France,6' 3'',185.0,,2025,19,Guard
+1641807,Norchad Omier,Nicaragua,6' 7'',248.0,Miami,Undrafted,Undrafted,Forward
+1626181,Norman Powell,USA,6' 3'',215.0,UCLA,2015,46,Guard
+1628384,OG Anunoby,United Kingdom,6' 7'',240.0,Indiana,2017,23,Forward-Guard
+1630167,Obi Toppin,USA,6' 9'',220.0,Dayton,2020,8,Forward
+1630534,Ochai Agbaji,USA,6' 5'',215.0,Kansas,2022,14,Guard
+1630846,Olivier Sarr,France,6' 10'',240.0,Kentucky,Undrafted,Undrafted,Center
+1641765,Olivier-Maxence Prosper,Canada,6' 7'',230.0,Marquette,2023,24,Forward
+1630209,Omer Yurtseven,Turkey,6' 11'',275.0,Georgetown,Undrafted,Undrafted,Center
+1630168,Onyeka Okongwu,USA,6' 10'',240.0,Southern California,2020,6,Forward-Center
+1631115,Orlando Robinson,USA,6' 10'',235.0,Fresno State,Undrafted,Undrafted,Center
+1631131,Oscar Tshiebwe,DRC,6' 8'',255.0,Kentucky,Undrafted,Undrafted,Forward-Center
+1642345,Oso Ighodaro,USA,6' 11'',235.0,Marquette,2024,40,Forward
+1631172,Ousmane Dieng,France,6' 9'',185.0,,2022,11,Forward
+1629023,P.J. Washington,USA,6' 7'',230.0,Kentucky,2019,12,Forward
+1641790,PJ Hall,USA,6' 8'',245.0,Clemson,Undrafted,Undrafted,Center
+1642359,Pacôme Dadiet,France,6' 9'',210.0,,2024,25,Forward
+1631094,Paolo Banchero,USA,6' 10'',250.0,Duke,2022,1,Forward
+1627783,Pascal Siakam,Cameroon,6' 8'',245.0,New Mexico State,2016,27,Forward
+1626192,Pat Connaughton,USA,6' 5'',209.0,Notre Dame,2015,41,Guard
+1630311,Pat Spencer,USA,6' 2'',205.0,Northwestern,Undrafted,Undrafted,Guard
+1631116,Patrick Baldwin Jr.,USA,7' 0'',220.0,Wisconsin-Milwaukee,2022,28,Forward
+1630172,Patrick Williams,USA,6' 6'',235.0,Florida State,2020,4,Forward
+202331,Paul George,USA,6' 8'',230.0,Fresno State,2010,10,Forward
+1630194,Paul Reed,USA,6' 9'',210.0,DePaul,2020,58,Forward
+1630202,Payton Pritchard,USA,6' 1'',195.0,Oregon,2020,26,Guard
+1642362,Payton Sandfort,USA,6' 7'',215.0,Iowa,Undrafted,Undrafted,Forward
+1641796,Pelle Larsson,Sweden,6' 5'',215.0,Arizona,2024,44,Guard
+1631250,Pete Nance,USA,6' 9'',225.0,Northwestern,Undrafted,Undrafted,Forward
+1631212,Peyton Watson,USA,6' 8'',200.0,UCLA,2022,30,Guard
+1630173,Precious Achiuwa,Nigeria,6' 8'',243.0,Memphis,2020,20,Forward
+1629656,Quentin Grimes,USA,6' 5'',207.0,Houston,2021,25,Guard
+1631245,Quenton Jackson,USA,6' 4'',173.0,Texas A&M,Undrafted,Undrafted,Guard
+1642366,Quinten Post,Netherlands,7' 0'',238.0,Boston College,2024,52,Center
+1629628,RJ Barrett,Canada,6' 6'',214.0,Duke,2019,3,Forward-Guard
+1642853,Rasheer Fleming,USA,6' 9'',240.0,St. Joseph's (PA),2025,31,Forward
+1642484,RayJ Dennis,USA,6' 1'',180.0,Baylor,Undrafted,Undrafted,Guard
+1641712,Rayan Rupert,France,6' 7'',205.0,,2023,43,Guard-Forward
+1642263,Reed Sheppard,USA,6' 2'',185.0,Kentucky,2024,3,Guard
+1642434,Riley Minix,USA,6' 7'',230.0,Morehead State,Undrafted,Undrafted,Forward
+1642265,Rob Dillingham,USA,6' 2'',175.0,Kentucky,2024,8,Guard
+1629057,Robert Williams III,USA,6' 9'',249.0,Texas A&M,2018,27,Center-Forward
+1642911,Rocco Zikarsky,Australia,7' 3'',227.0,,2025,45,Center
+1631199,Ron Harper Jr.,USA,6' 5'',233.0,Rutgers,Undrafted,Undrafted,Guard-Forward
+1641842,Ronald Holland II,USA,6' 8'',206.0,,2024,5,Forward
+1626220,Royce O'Neale,USA,6' 6'',226.0,Baylor,Undrafted,Undrafted,Forward
+203497,Rudy Gobert,France,7' 1'',258.0,,2013,27,Center
+1629060,Rui Hachimura,Japan,6' 8'',230.0,Gonzaga,2019,9,Forward
+201566,Russell Westbrook,USA,6' 4'',200.0,UCLA,2008,4,Guard
+1642346,Ryan Dunn,USA,6' 7'',216.0,Virginia,2024,28,Forward
+1641750,Ryan Kalkbrenner,USA,7' 1'',256.0,Creighton,2025,34,Center
+1642948,Ryan Nembhard,Canada,5' 11'',180.0,Gonzaga,Undrafted,Undrafted,Guard
+1631157,Ryan Rollins,USA,6' 3'',180.0,Toledo,2022,44,Guard
+1630180,Saddiq Bey,USA,6' 8'',215.0,Villanova,2020,19,Guard-Forward
+1630573,Sam Hauser,USA,6' 7'',217.0,Virginia,Undrafted,Undrafted,Forward
+1630241,Sam Merrill,USA,6' 4'',205.0,Utah State,2020,60,Guard
+1630572,Sandro Mamukelashvili,Georgia,6' 9'',240.0,Seton Hall,2021,54,Forward-Center
+1630583,Santi Aldama,Spain,7' 0'',215.0,Loyola-Maryland,2021,30,Forward-Center
+1630703,Scoot Henderson,USA,6' 3'',207.0,,2023,3,Guard
+1630567,Scottie Barnes,USA,6' 8'',237.0,Florida State,2021,4,Forward-Guard
+1630590,Scotty Pippen Jr.,USA,6' 2'',170.0,Vanderbilt,Undrafted,Undrafted,Guard
+1642951,Sean Pedulla,USA,6' 1'',195.0,Mississippi,Undrafted,Undrafted,Guard
+203552,Seth Curry,USA,6' 1'',185.0,Duke,Undrafted,Undrafted,Guard
+1631101,Shaedon Sharpe,Canada,6' 5'',210.0,Kentucky,2022,7,Guard
+1628983,Shai Gilgeous-Alexander,Canada,6' 6'',195.0,Kentucky,2018,11,Guard
+1630536,Sharife Cooper,USA,6' 0'',176.0,Auburn,2021,48,Guard
+1631321,Sidy Cissoko,France,6' 6'',220.0,,2023,44,Guard
+1631323,Simone Fontecchio,Italy,6' 7'',209.0,,Undrafted,Undrafted,Forward
+1642883,Sion James,USA,6' 5'',220.0,Duke,2025,33,Guard
+1627746,Skal Labissiere,Haiti,6' 10'',235.0,Kentucky,2016,28,Forward-Center
+1642461,Spencer Jones,USA,6' 7'',225.0,Stanford,Undrafted,Undrafted,Forward
+1630649,Stanley Umude,USA,6' 6'',210.0,Arkansas,Undrafted,Undrafted,Guard
+201939,Stephen Curry,USA,6' 2'',185.0,Davidson,2009,7,Guard
+1642264,Stephon Castle,USA,6' 6'',215.0,Connecticut,2024,4,Guard
+203500,Steven Adams,New Zealand,6' 11'',265.0,Pittsburgh,2013,12,Center
+1629004,Svi Mykhailiuk,Ukraine,6' 7'',205.0,Kansas,2018,47,Guard-Forward
+204456,T.J. McConnell,USA,6' 1'',190.0,Arizona,2015,Undrafted,Guard
+1643007,Taelon Peter,USA,6' 3'',185.0,Liberty,2025,54,Guard
+201959,Taj Gibson,USA,6' 9'',232.0,Southern California,2009,26,Forward
+1631106,Tari Eason,USA,6' 8'',215.0,Louisiana State,2022,17,Forward
+1627752,Taurean Prince,USA,6' 6'',218.0,Baylor,2016,12,Forward
+1641707,Taylor Hendricks,USA,6' 9'',215.0,Central Florida,2023,9,Forward
+1629611,Terance Mann,USA,6' 6'',215.0,Florida State,2019,48,Guard-Forward
+1630545,Terrence Shannon Jr.,USA,6' 6'',215.0,Illinois,2024,27,Guard-Forward
+203648,Thanasis Antetokounmpo,Greece,6' 7'',219.0,,2014,51,Forward
+1628418,Thomas Bryant,USA,6' 9'',248.0,Indiana,2017,42,Center-Forward
+1642275,Tidjane Salaün,France,6' 10'',207.0,,2024,6,Forward
+203501,Tim Hardaway Jr.,USA,6' 5'',205.0,Michigan,2013,24,Guard-Forward
+202699,Tobias Harris,USA,6' 8'',226.0,Tennessee,2011,19,Forward
+1643253,Toby Okani,USA,6' 8'',210.0,West Virginia,Undrafted,Undrafted,Forward
+1642449,Tolu Smith,USA,6' 11'',,Mississippi State,Undrafted,Undrafted,Forward
+1628396,Tony Bradley,USA,6' 10'',248.0,North Carolina,2017,28,Center-Forward
+1641787,Tosan Evbuomwan,United Kingdom,6' 8'',217.0,Princeton,Undrafted,Undrafted,Forward
+1641739,Toumani Camara,Belgium,6' 7'',230.0,Dayton,2023,52,Forward
+1629027,Trae Young,USA,6' 2'',164.0,Oklahoma,2018,5,Guard
+1631218,Trayce Jackson-Davis,USA,6' 9'',245.0,Indiana,2023,57,Forward
+1642848,Tre Johnson,USA,6' 5'',190.0,Texas,2025,6,Guard
+1630200,Tre Jones,USA,6' 1'',190.0,Duke,2020,41,Guard
+1630544,Tre Mann,USA,6' 4'',178.0,Florida,2021,18,Guard
+1630570,Trendon Watford,USA,6' 8'',245.0,Louisiana State,Undrafted,Undrafted,Guard-Forward
+1642280,Trentyn Flowers,USA,6' 9'',185.0,,Undrafted,Undrafted,Forward
+1630286,Trevon Scott,USA,6' 8'',225.0,Cincinnati,Undrafted,Undrafted,Forward
+1631211,Trevor Keels,USA,6' 3'',215.0,Duke,2022,42,Guard
+1641725,Trey Alexander,USA,6' 5'',185.0,Creighton,Undrafted,Undrafted,Guard
+1641998,Trey Jemison III,USA,6' 10'',270.0,Alabama-Birmingham,Undrafted,Undrafted,Center
+1630530,Trey Murphy III,USA,6' 8'',206.0,Virginia,2021,17,Forward
+1642400,Tristan Enaruna,Netherlands,6' 7'',220.0,Cleveland State,Undrafted,Undrafted,Forward
+1641774,Tristan Vukcevic,Italy,7' 0'',220.0,,2023,42,Forward
+1641783,Tristan da Silva,Germany,6' 8'',217.0,Colorado,2024,18,Forward
+1641803,Tristen Newton,USA,6' 5'',190.0,Connecticut,2024,49,Guard
+1629660,Ty Jerome,USA,6' 5'',195.0,Virginia,2019,24,Guard-Forward
+1631102,TyTy Washington Jr.,USA,6' 3'',195.0,Kentucky,2022,29,Guard
+1631174,Tyler Burton,USA,6' 7'',215.0,Richmond,Undrafted,Undrafted,Forward
+1629639,Tyler Herro,USA,6' 5'',195.0,Kentucky,2019,13,Guard
+1642278,Tyler Kolek,USA,6' 2'',195.0,Marquette,2024,34,Guard
+1641890,Tyler Smith,USA,6' 9'',224.0,,2024,33,Forward
+1631213,Tyrese Martin,USA,6' 6'',215.0,Connecticut,2022,51,Forward
+1630178,Tyrese Maxey,USA,6' 2'',200.0,Kentucky,2020,21,Guard
+1642878,Tyrese Proctor,Australia,6' 4'',185.0,Duke,2025,49,Guard
+1630623,Tyson Etienne,USA,6' 0'',200.0,Wichita State,Undrafted,Undrafted,Guard
+1626145,Tyus Jones,USA,6' 0'',196.0,Duke,2015,24,Guard
+1642845,VJ Edgecombe,USA,6' 4'',190.0,Baylor,2025,3,Guard
+1641705,Victor Wembanyama,France,7' 4'',235.0,,2023,1,Forward-Center
+1631246,Vince Williams Jr.,USA,6' 4'',205.0,Va Commonwealth,2022,47,Guard
+1642884,Vladislav Goldin,Russia,7' 0'',250.0,Michigan,Undrafted,Undrafted,Center
+1630249,Vít Krejčí,Czech Republic,6' 8'',195.0,,2020,37,Guard
+1631117,Walker Kessler,USA,7' 2'',245.0,Auburn,2022,22,Center
+1642383,Walter Clayton Jr.,USA,6' 4'',195.0,Florida,2025,18,Guard
+1628976,Wendell Carter Jr.,USA,6' 10'',270.0,Duke,2018,7,Center-Forward
+1631111,Wendell Moore Jr.,USA,6' 5'',215.0,Duke,2022,26,Guard
+1642954,Will Richard,USA,6' 3'',206.0,Florida,2025,56,Guard
+1642860,Will Riley,USA,6' 9'',180.0,Illinois-Urbana-Champaign,2025,21,Forward
+1630214,Xavier Tillman,USA,6' 8'',245.0,Michigan State,2020,35,Forward
+1642905,Yang Hansen,China,7' 1'',270.0,,2025,16,Center
+1642949,Yanic Konan Niederhäuser,Switzerland,6' 11'',242.0,Penn State,2025,30,Center
+1642530,Yuki Kawamura,Japan,5' 7'',159.0,,Undrafted,Undrafted,Guard
+1642274,Yves Missi,Cameroon,6' 11'',235.0,Baylor,2024,21,Center
+1642258,Zaccharie Risacher,France,6' 8'',200.0,,2024,1,Forward
+1628380,Zach Collins,USA,6' 9'',240.0,Gonzaga,2017,10,Forward-Center
+1641744,Zach Edey,Canada,7' 3'',305.0,Purdue,2024,9,Center
+203897,Zach LaVine,USA,6' 5'',200.0,UCLA,2014,13,Guard
+1630192,Zeke Nnaji,USA,6' 10'',240.0,Arizona,2020,22,Forward-Center
+1630533,Ziaire Williams,USA,6' 9'',185.0,Stanford,2021,10,Forward
+1629627,Zion Williamson,USA,6' 6'',284.0,Duke,2019,1,Forward
+1642389,Zyon Pullin,USA,6' 4'',206.0,Florida,Undrafted,Undrafted,Guard
